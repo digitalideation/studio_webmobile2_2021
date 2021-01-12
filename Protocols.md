@@ -35,3 +35,9 @@ Using Postman do the following exercises:
 
 Modern browser developer tools come with a _network_ tab to help you find issues in the communication over a network. Open the browser of your choice and open the network tab, then (re)load a website. What do you see? 
 
+## WebSockets and Socket.io
+Socket.io is a library for real-time, bidirectional and event-based communication. Under the hood it uses WebSockets, but is a bit easier to use and provides additional functionality on top.
+We will work through the [Socket.io tutorial](https://socket.io/get-started/chat/) together. Alternatively you can work through it by yourself.
+
+### Websocket resources
+* [WebSockets on MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
