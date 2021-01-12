@@ -13,6 +13,8 @@ Try to answer the following questions using the resources listed below
 ### HTTP resources
 * [HTTP overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 * [HTTP methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+* [Safe HTTP methods](https://developer.mozilla.org/en-US/docs/Glossary/safe)
+* [Idempotent HTTP methods](https://developer.mozilla.org/en-US/docs/Glossary/idempotent)
 * [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
-* [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+* [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 * [HTTP status ranges in a nutshell](https://twitter.com/stevelosh/status/372740571749572610)
