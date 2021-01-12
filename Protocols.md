@@ -46,7 +46,7 @@ We will work through the [Socket.io tutorial](https://socket.io/get-started/chat
 
 ### HTTPS and HTTP/2
 * [HTTPS](https://developers.google.com/search/docs/advanced/security/https?hl=en&visit_id=637460591423716973-1265265362&rd=1)
-* [Evolution of HTTP]https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
+* [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
 
 ### WebRTC
 * [WebRTC Introduction](https://webrtc.org/)
