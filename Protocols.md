@@ -29,3 +29,9 @@ Using Postman do the following exercises:
 * Try to find a really fast server and a really slow response time. Record your results in this [Google Doc](https://docs.google.com/spreadsheets/d/17-deXCd0A-DaWr5IaBH6zBFYl6IxLeeRTEBZD0Ym1As/edit#gid=0)
    * What factors can impact the response time?
 * Try to provoke a response code that is not OK. What request did you send to which address and what response do you get? Record your results in the [Google Doc](https://docs.google.com/spreadsheets/d/17-deXCd0A-DaWr5IaBH6zBFYl6IxLeeRTEBZD0Ym1As/edit#gid=430344301)
+
+### Debugging network and timing issues
+![XKCD networking problems](https://imgs.xkcd.com/comics/networking_problems.png )
+
+Modern browser developer tools come with a _network_ tab to help you find issues in the communication over a network. Open the browser of your choice and open the network tab, then (re)load a website. What do you see? 
+
