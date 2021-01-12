@@ -37,7 +37,7 @@ Modern browser developer tools come with a _network_ tab to help you find issues
 
 ## WebSockets and Socket.io
 Socket.io is a library for real-time, bidirectional and event-based communication. Under the hood it uses WebSockets, but is a bit easier to use and provides additional functionality on top.
-We will work through the [Socket.io tutorial](https://socket.io/get-started/chat/) together. Alternatively you can work through it by yourself.
+We will work through the [Socket.io tutorial](https://socket.io/get-started/chat/) together. Alternatively you can work through it by yourself. If you have time left, choose some of the exercise listed as _Homework_ and try implement them.
 
 ### Websocket resources
 * [WebSockets on MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
