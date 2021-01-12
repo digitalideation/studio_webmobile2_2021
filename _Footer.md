@@ -1,0 +1,1 @@
+Studio Web&Mobile Design & Engineering 2 – 2021 ©Digital Ideation, HSLU, Maria Husmann und Hanna Züllig
