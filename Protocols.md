@@ -41,3 +41,11 @@ We will work through the [Socket.io tutorial](https://socket.io/get-started/chat
 
 ### Websocket resources
 * [WebSockets on MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+
+## WebRTC
+* [WebRTC Introduction](https://webrtc.org/)
+* [Signalling](https://www.onsip.com/voip-resources/voip-fundamentals/webrtc-signaling)
+
+## Server-sent events
+* [Server-sent events introduction](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
+* [WebSocket vs. server-sent events](https://www.telerik.com/blogs/websockets-vs-server-sent-events)
