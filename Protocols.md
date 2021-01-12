@@ -26,6 +26,6 @@ Using Postman do the following exercises:
    * Inspect the response
    * Look at the response time
    * Do you get the same result every time?
-* Try to find a really fast server and a really slow response time. Record your results in this [Google Doc]https://docs.google.com/spreadsheets/d/17-deXCd0A-DaWr5IaBH6zBFYl6IxLeeRTEBZD0Ym1As/edit#gid=0)
+* Try to find a really fast server and a really slow response time. Record your results in this [Google Doc](https://docs.google.com/spreadsheets/d/17-deXCd0A-DaWr5IaBH6zBFYl6IxLeeRTEBZD0Ym1As/edit#gid=0)
    * What factors can impact the response time?
 * Try to provoke a response code that is not OK. What request did you send to which address and what response do you get? Record your results in the [Google Doc](https://docs.google.com/spreadsheets/d/17-deXCd0A-DaWr5IaBH6zBFYl6IxLeeRTEBZD0Ym1As/edit#gid=430344301)
