@@ -1,0 +1,1 @@
+How would you build a cross-device application? How can devices communicate with each other? Which protocols do you know? How do you choose the right one?
