@@ -6,3 +6,6 @@ A more complex approach is to use an Infrastructure-as-a-service provider (such 
 
 ## Resources
 * [Deploying Node.js Apps on Heroku](https://devcenter.heroku.com/articles/deploying-nodejs)
+
+## Cost
+Cloud services can quickly add up. If you use a credit card, keep a close eye on the cost. Cloud services sometimes offer free tiers for hobby projects without requiring credit cards. Through [Github for education](https://education.github.com/pack) you can also get credit for various services, including domain names and cloud hosting (Heroku, Digital Ocean).
