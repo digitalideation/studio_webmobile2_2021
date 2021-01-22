@@ -10,11 +10,7 @@ Ein und dieselbe Farbe kann hell oder dunkel wirken, je nach Umgebungsfarbe. <br
 Die flimmernden Effekte, die viele Op-Art Werke haben, sind auf solche Interaktionen zurückzuführen. Widersprüchliche Informationen lösen das Flimmern aus. Das Hirn denkt, das ist dieselbe Farbe, dasselbe Element – es wiederholt sich ja. 
 Aber es ist auch ein unterschiedliches Element, denn es wirkt anders – der Hintergrund ändert sich. <br/><br/>
 Ein anderer Aspekt ist das Zusammenspiel von Grund und Form. In der Gestalttheorie gibt es das _Gesetz der Prägnanz_ das besagt, dass wir grafische Objekte entweder als Vorder- oder Hintergrund wahrnehmen. Die Uneindeutigkeit von Vorder- und Hintergrund findet sich oft in den Werken von Bridget Riley.<br/>
-<br/>
-In unserem Zusammenhang ist Op-Art interessant. Zum einen, weil die Werke oft sehr parametrisch aufgebaut sind. <br/>
-Zum anderen, weil sie eine Bewegung implizieren – man hat das Gefühl, etwas bewegt sich, könnte sich bewegen – oder 'sieht' eine Bewegung, die aber nicht da ist. <br/><br/>
-Sich dieser gemeinten Bewegung bewusst zu werden und sie umzusetzen, ist eure Aufgabe. <br/>
-Dabei geht es um eine **Interpretation**, nicht um eine **Ausführung**. Interpretation meint, ihr könnt von einem charakteristischen Element – wie zum Beispiel dem Kipp Effekt von Vordergrund-Hintergrund in Bridget Rileys Arbeit ausgehen und diesen umsetzten. Ihr müsst aber nicht zwingend auch die Streifen und die Form der Raute übernehmen.<br/><br/>
+
 [[images/BridgetRiley/1.jpg]]<br/>
 [[images/BridgetRiley/99_greys.jpg]]<br/>
 
