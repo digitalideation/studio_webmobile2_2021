@@ -6,5 +6,5 @@ Diagrams are an important part of a technical documentation. They help someone n
 
 ## Tools for drawing diagrams
 * [https://plantuml.com](https://plantuml.com)
-* [https://blog.anoff.io/2018-07-31-diagrams-with-plantuml/])(https://blog.anoff.io/2018-07-31-diagrams-with-plantuml/)
+* [https://blog.anoff.io/2018-07-31-diagrams-with-plantuml/](https://blog.anoff.io/2018-07-31-diagrams-with-plantuml/)
 * [draw.io](https://www.draw.io/)
