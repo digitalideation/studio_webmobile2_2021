@@ -1,6 +1,14 @@
 # Übung
-Briefing: Gestalte eine zyklische Animation ausgehend ausgehend von einem Werk aus der Op-Art. Überlege, welche Art der Bewegung im Werk optisch bereits angelegt ist und interpretiere diese. <br/>
-Auf dieser Seite findest du ein paar Namen und Werke als Beispiele. <br/>
+Briefing: Gestalte eine zyklische Animation ausgehend ausgehend von einem Werk aus der Op-Art. Überlege, welche Art der Bewegung im Werk optisch bereits angelegt ist und interpretiere diese. <br/> 
+[Auf dieser Seite findest du ein paar Namen und Werke als Beispiele. ](https://github.com/digitalideation/studio_webmobile2_2021/wiki/Op-Art/)
+<br/>
+In unserem Zusammenhang ist Op-Art interessant. Zum einen, weil die Werke oft sehr parametrisch aufgebaut sind. <br/>
+Zum anderen, weil sie eine Bewegung implizieren – man hat das Gefühl, etwas bewegt sich, könnte sich bewegen – oder 'sieht' eine Bewegung, die aber nicht da ist. <br/><br/>
+Sich dieser gemeinten Bewegung bewusst zu werden und sie umzusetzen, ist eure Aufgabe. <br/>
+Dabei geht es um eine **Interpretation**, nicht um eine **Ausführung**. Interpretation meint, ihr könnt von einem charakteristischen Element – wie zum Beispiel dem Kipp Effekt von Vordergrund-Hintergrund in Bridget Rileys Arbeit ausgehen und diesen umsetzten. Ihr müsst aber nicht zwingend auch die Streifen und die Form der Raute übernehmen.<br/><br/>
+
+
+
 Benutze dazu CSS Transform und / oder Keyframe Animationen. Arbeite mit den Blend Modes, Transition Timing, SVG - Animationen.  <br/>
 Falls du die Konzepte vorgängig nochmals repetieren möchtest, findest du unten eine Anzahl von Links, Ressourcen und Inputs, die du durcharbeiten kannst. 
 
