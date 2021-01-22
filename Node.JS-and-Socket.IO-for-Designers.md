@@ -6,4 +6,7 @@ Das WebSocket-Protokoll ist ein Netzwerkprotokoll, das entworfen wurde, um eine 
 * [Artikel zu HTTP und WebSocket](https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-websocket/)
 
 ## Tutorial von Daniel Shiffman zu WebSockets und p5.js
-* https://www.youtube.com/watch?v=bjULmG8fqc8
+Zuerst müsst ihr Node installieren und dann arbeiten wir uns gemeinsam durch dieses Tutorial und bauen eine einfache Muster Applikation, die Daten zwischen Geräten überträgt.
+* Node installieren über Website https://nodejs.org/en/
+* https://www.youtube.com/watch?v=bjULmG8fqc8 (Teil 1 - 5)
+* Musterlösung
