@@ -1,0 +1,1 @@
+Node.js is a back-end JavaScript runtime environment. It runs JavaScript outside of the browser. In this class, we use it to program our backend-server. As such, it is an alternative to platforms using PHP, Java or C# that you might already know.
