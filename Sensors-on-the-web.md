@@ -1,4 +1,4 @@
-Many sensors of mobile devices can be accessed from the browser.
+Many sensors of mobile devices can be accessed from the browser. Note that there are differences between different browsers in what they support. You may need to server your application over HTTPS to access the sensors.
 
 ## Camera
 * [Accessing the camera with getUserMedia](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia).
