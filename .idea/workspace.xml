@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f26ce531-46eb-41fb-98fd-0ea56883ea37" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/.idea/sketch2.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/.idea/watcherTasks.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/.bin/in-install" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/.bin/in-publish" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/.bin/mime" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/.bin/mkdirp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/.bin/node-gyp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/.bin/node-sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/.bin/nopt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/.bin/not-in-install" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/.bin/not-in-publish" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/.bin/rimraf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/.bin/sassgraph" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/.bin/semver" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/.bin/sshpk-conv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/.bin/sshpk-sign" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/.bin/sshpk-verify" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/.bin/strip-indent" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/.bin/uuid" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/.bin/which" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/accepts/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/accepts/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/accepts/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/accepts/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/accepts/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/after/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/after/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/after/LICENCE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/after/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/after/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/after/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/after/test/after-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/array-flatten/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/array-flatten/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/array-flatten/array-flatten.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/array-flatten/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/arraybuffer.slice/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/arraybuffer.slice/LICENCE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/arraybuffer.slice/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/arraybuffer.slice/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/arraybuffer.slice/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/arraybuffer.slice/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/arraybuffer.slice/test/slice-buffer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/backo2/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/backo2/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/backo2/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/backo2/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/backo2/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/backo2/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/backo2/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/backo2/test/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/base64-arraybuffer/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/base64-arraybuffer/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/base64-arraybuffer/LICENSE-MIT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/base64-arraybuffer/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/base64-arraybuffer/lib/base64-arraybuffer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/base64-arraybuffer/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/base64id/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/base64id/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/base64id/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/base64id/lib/base64id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/base64id/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/blob/.idea/blob.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/blob/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/blob/.idea/markdown-navigator.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/blob/.idea/markdown-navigator/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/blob/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/blob/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/blob/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/blob/.zuul.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/blob/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/blob/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/blob/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/blob/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/blob/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/blob/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/blob/test/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/body-parser/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/body-parser/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/body-parser/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/body-parser/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/body-parser/lib/read.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/body-parser/lib/types/json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/body-parser/lib/types/raw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/body-parser/lib/types/text.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/body-parser/lib/types/urlencoded.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/body-parser/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/bytes/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/bytes/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/bytes/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/bytes/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/bytes/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/component-bind/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/component-bind/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/component-bind/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/component-bind/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/component-bind/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/component-bind/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/component-bind/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/component-emitter/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/component-emitter/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/component-emitter/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/component-emitter/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/component-emitter/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/component-inherit/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/component-inherit/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/component-inherit/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/component-inherit/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/component-inherit/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/component-inherit/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/component-inherit/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/component-inherit/test/inherit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/content-disposition/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/content-disposition/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/content-disposition/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/content-disposition/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/content-disposition/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/content-type/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/content-type/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/content-type/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/content-type/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/content-type/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/cookie-signature/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/cookie-signature/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/cookie-signature/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/cookie-signature/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/cookie-signature/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/cookie/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/cookie/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/cookie/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/cookie/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/cookie/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/debug/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/debug/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/debug/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/debug/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/debug/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/debug/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/debug/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/debug/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/debug/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/debug/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/debug/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/debug/src/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/debug/src/debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/debug/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/debug/src/inspector-log.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/debug/src/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/depd/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/depd/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/depd/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/depd/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/depd/lib/browser/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/depd/lib/compat/callsite-tostring.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/depd/lib/compat/event-listener-count.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/depd/lib/compat/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/depd/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/destroy/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/destroy/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/destroy/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/destroy/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ee-first/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ee-first/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ee-first/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ee-first/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/encodeurl/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/encodeurl/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/encodeurl/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/encodeurl/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/encodeurl/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/engine.io.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/lib/globalThis.browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/lib/globalThis.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/lib/socket.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/lib/transport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/lib/transports/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/lib/transports/polling-jsonp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/lib/transports/polling-xhr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/lib/transports/polling.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/lib/transports/websocket.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/lib/xmlhttprequest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/node_modules/debug/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/node_modules/debug/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/node_modules/debug/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/node_modules/debug/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/node_modules/debug/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/node_modules/debug/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/node_modules/debug/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/node_modules/debug/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/node_modules/debug/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/node_modules/debug/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/node_modules/debug/src/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/node_modules/debug/src/debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/node_modules/debug/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/node_modules/debug/src/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-client/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-parser/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-parser/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-parser/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-parser/lib/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-parser/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-parser/lib/keys.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-parser/lib/utf8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io-parser/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/lib/engine.io.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/lib/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/lib/socket.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/lib/transport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/lib/transports/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/lib/transports/polling-jsonp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/lib/transports/polling-xhr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/lib/transports/polling.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/lib/transports/websocket.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/node_modules/cookie/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/node_modules/cookie/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/node_modules/cookie/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/node_modules/cookie/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/node_modules/cookie/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/node_modules/debug/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/node_modules/debug/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/node_modules/debug/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/node_modules/debug/dist/debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/node_modules/debug/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/node_modules/debug/src/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/node_modules/debug/src/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/node_modules/debug/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/node_modules/debug/src/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/node_modules/ms/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/node_modules/ms/license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/node_modules/ms/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/node_modules/ms/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/engine.io/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/escape-html/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/escape-html/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/escape-html/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/escape-html/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/etag/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/etag/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/etag/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/etag/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/etag/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/express/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/express/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/express/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/express/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/express/lib/application.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/express/lib/express.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/express/lib/middleware/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/express/lib/middleware/query.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/express/lib/request.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/express/lib/response.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/express/lib/router/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/express/lib/router/layer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/express/lib/router/route.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/express/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/express/lib/view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/express/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/finalhandler/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/finalhandler/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/finalhandler/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/finalhandler/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/finalhandler/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/forwarded/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/forwarded/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/forwarded/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/forwarded/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/forwarded/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/fresh/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/fresh/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/fresh/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/fresh/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/fresh/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/has-binary2/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/has-binary2/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/has-binary2/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/has-binary2/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/has-binary2/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/has-cors/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/has-cors/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/has-cors/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/has-cors/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/has-cors/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/has-cors/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/has-cors/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/has-cors/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/http-errors/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/http-errors/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/http-errors/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/http-errors/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/http-errors/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/Changelog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/encodings/dbcs-codec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/encodings/dbcs-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/encodings/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/encodings/internal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/encodings/sbcs-codec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/encodings/sbcs-data-generated.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/encodings/sbcs-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/encodings/tables/big5-added.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/encodings/tables/cp936.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/encodings/tables/cp949.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/encodings/tables/cp950.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/encodings/tables/eucjp.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/encodings/tables/gbk-added.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/encodings/tables/shiftjis.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/encodings/utf16.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/encodings/utf7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/lib/bom-handling.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/lib/extend-node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/lib/index.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/lib/streams.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/iconv-lite/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/indexof/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/indexof/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/indexof/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/indexof/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/indexof/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/indexof/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/inherits/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/inherits/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/inherits/inherits.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/inherits/inherits_browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/inherits/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ipaddr.js/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ipaddr.js/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ipaddr.js/ipaddr.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ipaddr.js/lib/ipaddr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ipaddr.js/lib/ipaddr.js.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ipaddr.js/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/isarray/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/isarray/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/isarray/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/media-typer/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/media-typer/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/media-typer/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/media-typer/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/media-typer/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/merge-descriptors/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/merge-descriptors/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/merge-descriptors/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/merge-descriptors/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/merge-descriptors/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/methods/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/methods/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/methods/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/methods/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/methods/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime-db/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime-db/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime-db/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime-db/db.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime-db/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime-db/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime-types/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime-types/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime-types/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime-types/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime-types/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime/cli.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime/mime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime/src/build.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime/src/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/mime/types.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ms/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ms/license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ms/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ms/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/negotiator/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/negotiator/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/negotiator/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/negotiator/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/negotiator/lib/charset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/negotiator/lib/encoding.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/negotiator/lib/language.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/negotiator/lib/mediaType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/negotiator/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/on-finished/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/on-finished/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/on-finished/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/on-finished/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/on-finished/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/parseqs/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/parseqs/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/parseqs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/parseqs/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/parseqs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/parseqs/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/parseuri/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/parseuri/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/parseuri/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/parseuri/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/parseuri/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/parseuri/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/parseuri/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/parseurl/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/parseurl/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/parseurl/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/parseurl/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/parseurl/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/path-to-regexp/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/path-to-regexp/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/path-to-regexp/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/path-to-regexp/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/path-to-regexp/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/proxy-addr/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/proxy-addr/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/proxy-addr/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/proxy-addr/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/proxy-addr/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/qs/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/qs/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/qs/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/qs/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/qs/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/qs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/qs/dist/qs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/qs/lib/formats.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/qs/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/qs/lib/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/qs/lib/stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/qs/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/qs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/qs/test/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/qs/test/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/qs/test/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/qs/test/stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/qs/test/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/range-parser/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/range-parser/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/range-parser/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/range-parser/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/range-parser/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/raw-body/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/raw-body/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/raw-body/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/raw-body/index.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/raw-body/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/raw-body/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/safe-buffer/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/safe-buffer/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/safe-buffer/index.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/safe-buffer/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/safe-buffer/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/safer-buffer/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/safer-buffer/Porting-Buffer.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/safer-buffer/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/safer-buffer/dangerous.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/safer-buffer/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/safer-buffer/safer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/safer-buffer/tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/send/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/send/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/send/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/send/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/send/node_modules/ms/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/send/node_modules/ms/license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/send/node_modules/ms/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/send/node_modules/ms/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/send/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/serve-static/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/serve-static/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/serve-static/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/serve-static/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/serve-static/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/setprototypeof/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/setprototypeof/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/setprototypeof/index.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/setprototypeof/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/setprototypeof/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/setprototypeof/test/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-adapter/.idea/$CACHE_FILE$" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-adapter/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-adapter/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-adapter/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-adapter/.idea/socket.io-adapter.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-adapter/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-adapter/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-adapter/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-adapter/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-adapter/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-adapter/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/dist/socket.io.dev.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/dist/socket.io.dev.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/dist/socket.io.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/dist/socket.io.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/dist/socket.io.slim.dev.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/dist/socket.io.slim.dev.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/dist/socket.io.slim.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/dist/socket.io.slim.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/lib/manager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/lib/on.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/lib/socket.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/lib/url.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/debug/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/debug/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/debug/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/debug/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/debug/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/debug/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/debug/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/debug/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/debug/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/debug/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/debug/src/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/debug/src/debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/debug/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/debug/src/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/socket.io-parser/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/socket.io-parser/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/socket.io-parser/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/socket.io-parser/binary.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/socket.io-parser/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/socket.io-parser/is-buffer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/node_modules/socket.io-parser/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-client/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/binary.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/is-buffer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/node_modules/component-emitter/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/node_modules/component-emitter/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/node_modules/component-emitter/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/node_modules/component-emitter/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/node_modules/component-emitter/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/node_modules/debug/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/node_modules/debug/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/node_modules/debug/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/node_modules/debug/dist/debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/node_modules/debug/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/node_modules/debug/src/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/node_modules/debug/src/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/node_modules/debug/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/node_modules/debug/src/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/node_modules/ms/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/node_modules/ms/license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/node_modules/ms/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/node_modules/ms/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io-parser/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/lib/client.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/lib/namespace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/lib/parent-namespace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/lib/socket.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/node_modules/debug/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/node_modules/debug/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/node_modules/debug/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/node_modules/debug/dist/debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/node_modules/debug/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/node_modules/debug/src/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/node_modules/debug/src/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/node_modules/debug/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/node_modules/debug/src/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/node_modules/ms/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/node_modules/ms/license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/node_modules/ms/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/node_modules/ms/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/socket.io/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/statuses/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/statuses/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/statuses/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/statuses/codes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/statuses/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/statuses/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/to-array/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/to-array/LICENCE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/to-array/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/to-array/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/to-array/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/toidentifier/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/toidentifier/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/toidentifier/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/toidentifier/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/type-is/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/type-is/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/type-is/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/type-is/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/type-is/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/unpipe/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/unpipe/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/unpipe/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/unpipe/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/unpipe/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/utils-merge/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/utils-merge/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/utils-merge/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/utils-merge/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/utils-merge/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/vary/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/vary/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/vary/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/vary/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/vary/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ws/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ws/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ws/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ws/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ws/lib/buffer-util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ws/lib/constants.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ws/lib/event-target.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ws/lib/extension.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ws/lib/limiter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ws/lib/permessage-deflate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ws/lib/receiver.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ws/lib/sender.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ws/lib/stream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ws/lib/validation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ws/lib/websocket-server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ws/lib/websocket.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/ws/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/xmlhttprequest-ssl/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/xmlhttprequest-ssl/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/xmlhttprequest-ssl/autotest.watchr" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/xmlhttprequest-ssl/example/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/xmlhttprequest-ssl/lib/XMLHttpRequest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/xmlhttprequest-ssl/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/xmlhttprequest-ssl/tests/test-constants.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/xmlhttprequest-ssl/tests/test-events.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/xmlhttprequest-ssl/tests/test-exceptions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/xmlhttprequest-ssl/tests/test-headers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/xmlhttprequest-ssl/tests/test-redirect-302.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/xmlhttprequest-ssl/tests/test-redirect-303.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/xmlhttprequest-ssl/tests/test-redirect-307.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/xmlhttprequest-ssl/tests/test-request-methods.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/xmlhttprequest-ssl/tests/test-request-protocols.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/xmlhttprequest-ssl/tests/testdata.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/yeast/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/yeast/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/yeast/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/node_modules/yeast/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/package-lock.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/public/libraries/p5.dom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/public/libraries/p5.gui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/public/libraries/p5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/public/libraries/p5.sound.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/public/libraries/quicksettings.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/public/sketch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiffman_Muster/server.js" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shiffman_Muster/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sketch.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shiffman_Muster/public/sketch.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shiffman_Muster/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="304">
+                <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shiffman_Muster/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="361">
+                <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shiffman_Muster/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shiffman_Muster/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/shiffman_Muster/server.js" />
+        <option value="$PROJECT_DIR$/shiffman_Muster/public/sketch.js" />
+        <option value="$PROJECT_DIR$/shiffman_Muster/public/index.html" />
+        <option value="$PROJECT_DIR$/shiffman_Muster/package.json" />
+        <option value="$PROJECT_DIR$/shiffman_Muster/README.md" />
+        <option value="$PROJECT_DIR$/shiffman_Muster/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/shiffman_Muster/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1565" />
+    <option name="y" value="164" />
+    <option name="width" value="1537" />
+    <option name="height" value="918" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studio_webmobile2_2021" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studio_webmobile2_2021" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studio_webmobile2_2021" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studio_webmobile2_2021" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shiffman_Muster" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studio_webmobile2_2021" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studio_webmobile2_2021" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shiffman_Muster" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="studio_webmobile2_2021">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="studio_webmobile2_2021">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="shiffman_Muster">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f26ce531-46eb-41fb-98fd-0ea56883ea37" name="Default" comment="" />
+      <created>1611314249452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611314249452</updated>
+      <workItem from="1611314250684" duration="2645000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit shiffman musterloesung">
+      <created>1611315965029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611315965029</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit shiffman musterloesung">
+      <created>1611316595398</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611316595398</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2645000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1565" y="164" width="1537" height="918" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24949832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292978" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292978" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit shiffman musterloesung" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit shiffman musterloesung" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/shiffman_Muster/serverBack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiffman_Muster/public/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiffman_Muster/public/sketch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiffman_Muster/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="304">
+            <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiffman_Muster/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiffman_Muster/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiffman_Muster/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="361">
+            <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiffman_Muster/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiffman_Muster/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
