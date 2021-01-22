@@ -5,7 +5,10 @@ An easy way to deploy a Node.js application to the cloud is [Heroku](https://www
 A more complex approach is to use an Infrastructure-as-a-service provider (such as AWS EC2, Digital Ocean, Google Compute Engine) and Docker to deploy our application. To get HTTPS, we will use NGINX and Let's Encrypt. I recommend this approach if you want to learn more about cloud deployment and infrastructure. This approach requires that you register a domain name (or I can give one from my own domain). In this approach, you will use the Linux command line and SSH.
 
 ## Resources
+For Heroku
 * [Deploying Node.js Apps on Heroku](https://devcenter.heroku.com/articles/deploying-nodejs)
+
+For Docker etc.
 * [Docker Tutorial](https://docs.docker.com/get-started/).
 * [Docker Compose Tutorial](https://docs.docker.com/compose/gettingstarted/)
 * [Let's encrypt](https://letsencrypt.org/)
