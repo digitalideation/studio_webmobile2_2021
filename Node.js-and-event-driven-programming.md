@@ -4,4 +4,4 @@ Node.js is a back-end JavaScript runtime environment. It runs JavaScript outside
 * [A comprehensive guide to learning Node.js](https://nodejs.dev/learn)
 * **[The Node.js event loop](https://nodejs.dev/learn/the-nodejs-event-loop). This is the most important part from the guide above. This is required reading.**
 * [Event loop tutorial](https://developer.ibm.com/tutorials/learn-nodejs-the-event-loop/). 
-* [Video: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ).
+* [Video: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
