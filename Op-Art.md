@@ -11,7 +11,7 @@ Die flimmernden Effekte, die viele Op-Art Werke haben, sind auf solche Interakti
 Aber es ist auch ein unterschiedliches Element, denn es wirkt anders – der Hintergrund ändert sich. <br/><br/>
 Ein anderer Aspekt ist das Zusammenspiel von Grund und Form. In der Gestalttheorie gibt es das _Gesetz der Prägnanz_ das besagt, dass wir grafische Objekte entweder als Vorder- oder Hintergrund wahrnehmen. Die Uneindeutigkeit von Vorder- und Hintergrund findet sich oft in den Werken von Bridget Riley.<br/>
 
-[[images/BridgetRiley/1.jpg | width=400]]<br/>
+[[images/BridgetRiley/1.jpg | width=100]]<br/>
 [[images/BridgetRiley/99_greys.jpg]]<br/>
 
 ***
