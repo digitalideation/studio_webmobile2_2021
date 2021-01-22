@@ -6,7 +6,7 @@ Ein und dieselbe Farbe kann hell oder dunkel wirken, je nach Umgebungsfarbe. <br
 * http://interactionofcolor.com <br/>
 * http://www.artnet.de/künstler/josef-albers/interaction-of-color-portfolio-with-complete-text-lsXqrG-4rMS4QaxJ0K-oIg2 <br/>
 * Beispiel p5: https://editor.p5js.org/hzuellig/sketches/h8XK0PjsQ <br/>
-Op-Art: https://github.com/hzuellig/DI_WebMo2/wiki/07_Visuelle-Referenzen <br/><br/>
+
 Die flimmernden Effekte, die viele Op-Art Werke haben, sind auf solche Interaktionen zurückzuführen. Widersprüchliche Informationen lösen das Flimmern aus. Das Hirn denkt, das ist dieselbe Farbe, dasselbe Element – es wiederholt sich ja. 
 Aber es ist auch ein unterschiedliches Element, denn es wirkt anders – der Hintergrund ändert sich. <br/><br/>
 Ein anderer Aspekt ist das Zusammenspiel von Grund und Form. In der Gestalttheorie gibt es das _Gesetz der Prägnanz_ das besagt, dass wir grafische Objekte entweder als Vorder- oder Hintergrund wahrnehmen. Die Uneindeutigkeit von Vorder- und Hintergrund findet sich oft in den Werken von Bridget Riley.<br/>
@@ -19,18 +19,18 @@ Dabei geht es um eine **Interpretation**, nicht um eine **Ausführung**. Interpr
 [[images/BridgetRiley/99_greys.jpg]]<br/>
 
 ***
-# Op-Artists
+### Op-Artists
 * https://de.wikipedia.org/wiki/Op-Art
 * Bridget Riley: http://www.artnet.de/k%C3%BCnstler/bridget-riley/
 * Victor Vaserely: http://www.artnet.de/k%C3%BCnstler/victor-vasarely/
 * Yaacov Agam: http://www.artnet.de/k%C3%BCnstler/yaacov-agam/
 
-## Bridget Riley
+### Bridget Riley
 [[images/BridgetRiley/1.jpg]]<br/>
 [[images/BridgetRiley/Bridget_Riley.png]]<br/>
 
 [[images/BridgetRiley/Download.jpeg]] [[images/BridgetRiley/riley_bg.jpg]]<br/>
 
-## Victor Vaserely
+### Victor Vaserely
 [[images/Victor_Vaserely.png]]<br/>
 
