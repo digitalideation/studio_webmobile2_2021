@@ -25,7 +25,7 @@ Ein anderer Aspekt ist das Zusammenspiel von Grund und Form. In der Gestalttheor
 
 [[images/BridgetRiley/Bridget_Riley.png\| width=400px]]<br/>
 
-[[images/BridgetRiley/Download.jpeg]] [[images/BridgetRiley/riley_bg.jpg\| width=800px]]<br/>
+[[images/BridgetRiley/Download.jpeg]] [[images/BridgetRiley/riley_bg.jpg]]<br/>
 
 ### Victor Vaserely
 [[images/Victor_Vaserely.png\| width=800px]]<br/>
