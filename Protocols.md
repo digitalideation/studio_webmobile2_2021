@@ -32,6 +32,7 @@ Using Postman do the following exercises:
 
 ### Debugging network and timing issues
 ![XKCD networking problems](https://imgs.xkcd.com/comics/networking_problems.png )
+
 [Image Credit XKCD](https://xkcd.com/2259/)
 
 Modern browser developer tools come with a _network_ tab to help you find issues in the communication over a network. Open the browser of your choice and open the network tab, then (re)load a website. What do you see? 
